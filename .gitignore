@@ -1,3 +1,4 @@
 data/
 wandb/
 lightning_logs/
+model_weights/*
